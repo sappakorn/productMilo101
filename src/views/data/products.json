@@ -1,0 +1,8 @@
+[
+    { "id": 0, "titel": "Ne1", "description": "หล่อเท่1", "price": 45 },
+    { "id": 1, "titel": "Ne2", "description": "หล่อเท่2", "price": 55 },
+    { "id": 2, "titel": "Ne3", "description": "หล่อเท่3", "price": 65 },
+    { "id": 3, "titel": "Ne4", "description": "หล่อเท่4", "price": 75 },
+    { "id": 4, "titel": "MIlO", "description": "ดื้อ", "price": 150 },
+    { "id": 5, "titel": "MOLI", "description": "งอแง", "price": 5 }
+]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h1>Product Detail</h1>
+   
+      <div class="col-md-4 col-sm-6">
+         <div class="single-service-item">
+            <div class="single-service-icon">
+               <i class="flaticon-car"></i>
+            </div>
+            <h2><a href="/products/<%=product.id%>"> product ID   <%=product.id %> </a></h2>
+
+            <h2> Myname  <%=product.titel %> </h2>
+               รายระเอียด
+               <%=product.description %>
+
+               <br>
+            
+               ราคา
+               <%=product.price %>
+            
+         </div>
+      </div>	
+</body>
+</html>
